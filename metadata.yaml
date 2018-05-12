@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33166'
     url: http://www.gutenberg.org/2009/agents/33166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28154#PetronioPe-a-livremente-extrahida-do-romance-Quo-Vadis-de-Henryk-Sienkiewicz
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2009-02-23'
 gutenberg_type: Text
